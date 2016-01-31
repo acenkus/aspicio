@@ -483,13 +483,13 @@ td, th {
 
 .container {
   .padding();
-  @media screen and (min-width: @large) {
+  @media screen and (max-width: @large) {
     width: @container-large;
   }
-  @media screen and (min-width: @medium) {
+  @media screen and (max-width: @medium) {
     width: @container-medium;
   }
-  @media screen and (min-width: @small) {
+  @media screen and (max-width: @small) {
     width: @container-small;
   }
 }

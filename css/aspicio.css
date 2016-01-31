@@ -410,17 +410,17 @@ th {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .container {
     width: 1170px;
   }
 }
-@media screen and (min-width: 992px) {
+@media screen and (max-width: 992px) {
   .container {
     width: 970px;
   }
 }
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
   .container {
     width: 750px;
   }
@@ -619,3 +619,4 @@ th {
 .column.small-1 {
   width: 8.33333333%;
 }
+/*# sourceMappingURL=aspicio.css.map */
