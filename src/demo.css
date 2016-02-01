@@ -1,14 +1,20 @@
 .container {
   padding: 15px;
+  font-size: 13px;
 }
 .row {
   margin: 5px 0;
   padding: 5px;
   background: #999;
+  border-radius: 3px;
 }
 .column {
   padding: 15px;
+}
+.column .column-inside {
+  padding: 15px;
   border: 2px solid #666;
   background: #ccc;
+  border-radius: 3px;
 }
 /*# sourceMappingURL=demo.css.map */

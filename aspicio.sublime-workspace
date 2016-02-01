@@ -1,1 +1,556 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"title",
+				"title-container	 style.css"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"album",
+				"album-item	 style.css"
+			],
+			[
+				"page",
+				"page-title	 style.css"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"user",
+				"user_manager"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"no",
+				"no-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/aspicio/example.html",
+		"/C/xampp/htdocs/aspicio/css/demo.less",
+		"/C/xampp/htdocs/aspicio/css/aspicio.css",
+		"/C/xampp/htdocs/aspicio/css/aspicio.less",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/js/script.js",
+		"/C/xampp/htdocs/tom/Camelia(400x500).html",
+		"/C/xampp/htdocs/tom/gwd_preview_Camelia(400x500)/index.html",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/style.less",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/core/langs.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/footer.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/index.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/home-buttons.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/functions.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/core/post-types.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/less/footer.less",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/less/main.less",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/less/header.less",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/home-main.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/header-shop.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/header-page.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/home-contact.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/home-gallery.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/parts/home-about.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/header-side.php",
+		"/C/xampp/htdocs/chaika/wp-content/themes/chaika/core/template-config.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/assets/js/script.js",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/single.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/style.less",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/page.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/page-contact.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/archive-tours.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/page-news.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/single-albums.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/core/langs.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/header.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/page-about.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/archive-albums.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/archive-members.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/archive.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/sections/section-newest-album.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/sections/section-follow-us.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/core/post-types.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/functions.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/core/breadcrumbs.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/sections/section-news.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/sections/section-about.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/index.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/single-members.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/sviesiaigarsiai/less/main.less",
+		"/C/xampp/htdocs/wp/wp-content/themes/sviesiaigarsiai/style.less",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/archive-post.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/classes/class.attachments.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/classes/class.field.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/player/ttw-music-player.js",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/index.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/gallery-single-template.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/player/index.html",
+		"/C/Users/Gaivusis/AppData/Local/Temp/Temp1_music-player-1.0.1 (1).zip/demo/js/myplaylist.js",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/css/attachments.css",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/classes/class.attachments.search.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/classes/class.attachments.migrate.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/classes/class.attachments.legacy.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/attachments/classes/fields/class.field.wysiwyg.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/includes/class-cue-widget-playlist.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/admin/includes/class-cue-admin.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/includes/class-cue.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/admin/includes/ajax.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/includes/functions.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/readme.txt",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/templates/playlist.php",
+		"/C/xampp/htdocs/zalvarinis/wp-content/plugins/cue/admin/assets/css/admin.min.css",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/footer.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/lava/js/script.js",
+		"/C/Users/Gaivusis/Dropbox/pesd/zalvarinis/small-logo.svg",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/core/template-config.php",
+		"/C/Users/Gaivusis/AppData/Local/Temp/Temp1_socicon.zip/socicon/gen-page.js",
+		"/C/Users/Gaivusis/Desktop/soci/style.less",
+		"/C/Users/Gaivusis/Desktop/soci/variables.less",
+		"/C/Users/Gaivusis/AppData/Local/Temp/Temp1_socicon.zip/socicon/icons.json",
+		"/C/Users/Gaivusis/Desktop/socicon/font/socicon.woff2",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/section-newest-album.php",
+		"/C/Users/Gaivusis/Dropbox/pesd/zalvarinis/logo.svg",
+		"/C/xampp/htdocs/zalvarinis/wp-content/themes/zalvarinis/assets/libs/svg-injector .min.js",
+		"/C/xampp/htdocs/dewdrop/dewdrop.sublime-project",
+		"/C/xampp/htdocs/zalvarinis/wp-config.php",
+		"/C/xampp/htdocs/skautai.lt/application/controllers/LoginController.php",
+		"/C/xampp/htdocs/dewdrop/public_html/demo/wp-content/themes/dewdrop/style.css",
+		"/C/xampp/htdocs/dewdrop/public_html/demo/wp-content/themes/dewdrop/style.less",
+		"/C/xampp/htdocs/skautai.lt/old/index.html",
+		"/C/xampp/htdocs/dewdrop/public_html/demo/wp-content/themes/dewdrop/less/header.less",
+		"/C/xampp/htdocs/dewdrop/public_html/demo/wp-content/themes/dewdrop/less/main.less",
+		"/C/xampp/htdocs/dewdrop/public_html/demo/wp-content/themes/dewdrop/header.php",
+		"/C/xampp/htdocs/dewdrop/public_html/demo/wp-content/themes/dewdrop/index.php",
+		"/C/xampp/htdocs/dewdrop/sftp-config.json",
+		"/C/Users/Gaivusis/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/xampp/htdocs/app/application/config/config.php",
+		"/C/xampp/htdocs/app/.htaccess",
+		"/C/xampp/htdocs/app/application/views/users/register_form.php",
+		"/C/xampp/htdocs/app/application/config/routes.php",
+		"/C/xampp/htdocs/app/application/controllers/Users.php",
+		"/C/xampp/htdocs/app/application/third_party/community_auth/models/User_model.php",
+		"/C/xampp/htdocs/app/application/controllers/Examples.php",
+		"/C/xampp/htdocs/app/application/config/hooks.php",
+		"/C/xampp/htdocs/app/application/config/autoload.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/lava/less/main.less",
+		"/C/xampp/htdocs/wp/wp-content/themes/lava/style.less",
+		"/C/Users/Gaivusis/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/xampp/htdocs/app/application/views/user_manager/login_form.php",
+		"/C/Users/Gaivusis/AppData/Local/Temp/7zOCECCB5AD/test.php",
+		"/C/Users/Gaivusis/AppData/Local/Temp/7zOCECC3B34/PasswordHash.php",
+		"/C/xampp/htdocs/app/application/libraries/password_hash.php",
+		"/C/xampp/htdocs/app/application/libraries/user_manager.php",
+		"/C/xampp/htdocs/app/application/controllers/user_manager_controller.php",
+		"/C/xampp/htdocs/app/application/views/user_manager/profile.php",
+		"/C/xampp/htdocs/app/application/config/user_manager.php",
+		"/C/Users/Gaivusis/AppData/Local/Temp/7zOCEC24F5C/PasswordHash.php",
+		"/C/xampp/htdocs/app/application/models/um_users_model.php",
+		"/C/xampp/htdocs/app/system/libraries/Encrypt.php",
+		"/C/xampp/htdocs/app/application/views/header.php",
+		"/C/xampp/htdocs/app/application/views/user_manager/register_form.php",
+		"/C/xampp/htdocs/app/system/libraries/Session/drivers/Session_files_driver.php",
+		"/C/xampp/htdocs/app/application/.htaccess",
+		"/C/xampp/htdocs/app/application/database.sql",
+		"/C/xampp/htdocs/app/application/views/user/login/login.php",
+		"/C/xampp/htdocs/app/application/controllers/User.php",
+		"/C/Users/Gaivusis/AppData/Local/Temp/Temp1_Codeigniter-login-logout-register-master.zip/Codeigniter-login-logout-register-master/.htaccess",
+		"/C/xampp/htdocs/app/application/views/templates/header.php",
+		"/C/xampp/htdocs/app/application/config/database.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\chaika\\wp-content\\themes\\chaika",
+			"C:\\xampp\\htdocs\\zalvarinis\\wp-content\\plugins\\attachments",
+			"C:\\xampp\\htdocs\\zalvarinis\\wp-content\\plugins\\attachments\\classes",
+			"C:\\xampp\\htdocs\\zalvarinis\\wp-content\\plugins\\cue",
+			"C:\\xampp\\htdocs\\dewdrop\\public_html",
+			"C:\\xampp\\htdocs\\app\\application\\config",
+			"C:\\xampp\\htdocs\\app",
+			"C:\\webs\\dizart2\\29.rrr.lt\\public_html\\wp-content\\themes\\holder_theme"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button-con",
+			"register_nav_menus",
+			"rodo",
+			"single",
+			"breadcrumbs",
+			"album",
+			"btn",
+			"page",
+			"news",
+			"track",
+			"tracks",
+			"title",
+			" +",
+			"'",
+			"build",
+			"built",
+			"album",
+			"pause",
+			"play",
+			"alb",
+			"album",
+			"img",
+			"cover",
+			"album",
+			"self",
+			"mbInterfaceBuilt",
+			"more",
+			"currencySymbol",
+			"artist",
+			"artis",
+			"buyText",
+			"setBuyLink",
+			"buy",
+			"cover",
+			"oga",
+			"rating",
+			"rati",
+			"get_attachments",
+			"$this->attachments",
+			"function get",
+			"get",
+			"file",
+			"librar",
+			"mime_types",
+			"library",
+			"file",
+			"instances",
+			"attachment",
+			"where_cp",
+			"meta",
+			"meta_box",
+			"metabox",
+			"meta",
+			"metabo",
+			"metaboc",
+			"post",
+			"plugin_settings_link",
+			"update_message",
+			"admin_pag",
+			"url",
+			"plugin_dir_path( __FILE__ )",
+			"$this->dir",
+			"ATTACHMENTS_DIR ",
+			"version",
+			"post_type",
+			"get_post_type",
+			"post_type",
+			"get_instances_for_post_type",
+			"post_type",
+			"wp_richedit_pre ",
+			"post_type",
+			"metabox",
+			"post",
+			"Playlist",
+			"cue_playlist",
+			"registerpost_type_object",
+			"register",
+			"a {",
+			"gree",
+			"000000",
+			"transition",
+			"');\n",
+			"examples",
+			"<?",
+			"is_user_exist",
+			"this",
+			"stored_hash",
+			"portable_hashes",
+			"PasswordHash",
+			"portable_hashes",
+			"password_hash",
+			"hash_password",
+			"HashPassword",
+			"iteration_count_log2",
+			"password_hash",
+			" PasswordHash",
+			"crypt_private",
+			"hkdf",
+			"encode",
+			"encode_password",
+			"<?",
+			"save_path",
+			"session.save_path",
+			"base_url",
+			"<? ",
+			"load->helper('form_helper')",
+			"tbl_",
+			"'))  ",
+			"}\n",
+			"date",
+			"time",
+			"Country",
+			"time",
+			"item-thumb",
+			".side-menu-col ul li a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"PLUGIN_DIR",
+			"plugin_dir_path( __FILE__ )",
+			"Album",
+			"discography",
+			"000",
+			"users",
+			"<?php",
+			"password_hash",
+			"<?php",
+			"<?php ",
+			"<?php",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aspicio.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\dewdrop\\dewdrop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
